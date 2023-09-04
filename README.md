@@ -55,6 +55,7 @@ Desenvolver um sistema de gerenciamento de funcionários. Composto por dois cada
 ## Contribua
 
  Este é um projeto feito por Nilson Filho, código não concluído.
+ Obs.: Incluir na pasta no /xammpp/htdocs/, para poder funcionar.
  
  Além disso, você também pode contribuir:
  
