@@ -25,10 +25,13 @@
             $stmt->bindParam(':nova_descricao', $nova_descricao, PDO::PARAM_STR);
             $stmt->bindParam(':cargo_id', $cargo_id, PDO::PARAM_INT);
 
+            // Execute a consulta de inserção
             if ($stmt->execute()) {
-                echo "Cargo atualizado com sucesso!";
+                // Cargo alterado com sucesso
+                header("Location: index.php"); // Redireciona de volta para a página inicial
+                exit();
             } else {
-                echo "Erro ao atualizar o cargo.";
+                echo "Erro ao alterar o cargo.";
             }
 
             $db = null;
