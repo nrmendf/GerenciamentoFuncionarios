@@ -2,8 +2,6 @@
     <span> Gerenciamento de Funcionários</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos.
-
 ## Objetivo
 Desenvolvi um sistema de gerenciamento de funcionários que consiste em dois módulos principais: um para o cadastro de funcionários e outro para o cadastro de cargos. O objetivo principal era criar uma solução eficiente para o gerenciamento de recursos humanos.
 
