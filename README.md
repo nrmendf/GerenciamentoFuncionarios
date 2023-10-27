@@ -5,14 +5,14 @@
 Repositório desenvolvido para fins didáticos.
 
 ## Objetivo
-Desenvolver um sistema de gerenciamento de funcionários. Composto por dois cadastros, um de funcionários e outro de cargos.
+Desenvolvi um sistema de gerenciamento de funcionários que consiste em dois módulos principais: um para o cadastro de funcionários e outro para o cadastro de cargos. O objetivo principal era criar uma solução eficiente para o gerenciamento de recursos humanos.
 
-## Requisitos
-* O sistema deverá ser desenvolvido utilizando FrontEnd e BackEnd(PHP8).
-* Utilizar banco de dados MYSql para armazenos os dados (relacionais ou não realicionais).
-* Não usar Framework para BackEnd.
-* POO no BackEnd.
-* BackEnd utilizar instruções em SQL para manipular o Banco de Dados.
+## Características
+* Front-End: Desenvolvido utilizando tecnologias web para uma interface amigável e fácil de usar.
+* Back-End: Implementado em PHP 8, seguindo os princípios de Orientação a Objetos (POO) e utilizando instruções SQL para manipular o banco de dados.
+* Banco de Dados: Utilizei o MySQL para armazenar os dados, adotando uma abordagem relacional para garantir integridade e eficiência.
+* Metodologia: O projeto foi concebido sem o uso de frameworks no Back-End, proporcionando um entendimento mais profundo do funcionamento interno das aplicações web.
+* Clean Code: Adotei práticas de codificação limpa para garantir a legibilidade e manutenibilidade do código, promovendo uma experiência de desenvolvimento eficaz.
 
 ## Funções Disponíveis
 <table>
