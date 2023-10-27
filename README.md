@@ -43,7 +43,7 @@ Desenvolvi um sistema de gerenciamento de funcionários que consiste em dois mó
 </table>
 
 ---
-##  Observações: Visualizar
+##  Observações:
 * Abrir um relatório de funcionários cadastrados.
 * Na visualização se o funcionário estiver fazendo aniversário no mês exibir texto "Parabéns por mais um ano de vida, tenha um dia repleto de felicidades!!!"
 
